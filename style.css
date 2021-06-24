@@ -1,0 +1,19 @@
+.com {
+  font-family: "Raleway", sans-serif;
+}
+th {
+  background-color: red;
+}
+td {
+  border-color: blue;
+}
+.test:active,
+.test:hover,
+.test:focus {
+  color: #2196f3;
+}
+body {
+  background-color: #2a2a2a;
+  color: white;
+  font-family: "Raleway", sans-serif;
+}
